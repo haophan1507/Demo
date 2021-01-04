@@ -1,5 +1,5 @@
-function Demo(name) {
-  this.name = name;
+function Demo() {
+  this.list = [];
 }
 
 module.exports = Demo;
